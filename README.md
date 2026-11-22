@@ -13,7 +13,7 @@ In this assignment, there are 8 problems to solve using knowledge of TypeScript.
 7. OOP concepts
 8. Promise & Async/Await
 
-Also two blogs
+Also two blog tasks:
 
 1. <a href="https://github.com/chinmoy-kumar/B8A1/blob/main/type-vs-interface.md"> type-vs-interface.md</a>
 
