@@ -1,6 +1,6 @@
 # Type VS Interface
+<b>Introduction:</b><br>
 Type and interface both are used to create different types of structure of data. But they have some core differences based on which we should use them.
-
 
 ## Differences between Type and Interface:
 1. Type is more useful to use with complex and advance structures and logics. Such as Union, tuples, intersection, primitive types. This is more flexible than interface which makek it more suitable to use for complex structures.

@@ -1,5 +1,6 @@
 # Access Modifiers
 
+<b>Introduction:</b><br>
 Access modifiers are part of encapsulation which is a major part of Object oriented programming(OOP). These access modifiers limit the access range of a data which makes the program more secure and controlled. 
 
 1. Public: This is the default access modifier of typescript. A variable or function with this access modifier can be accessed from anywhere of the code.
